@@ -10,8 +10,13 @@ The objective of this project is to apply unsupervised machine learning clusteri
 * Identify the clusterization 
 * Measure and fit to the best model, if so
 
+## Technical Details
+
 ## Data Source
 
 The main data source came from the world bank data bank https://databank.worldbank.org/
 For this project a total of 262 countries with 61 metrics each and with a period of data from 2005 to 2019 was used.
 
+## Important Details
+
+## Next Step
