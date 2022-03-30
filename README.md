@@ -16,10 +16,8 @@ The next steps where taken in order to proceed to the conclusions:
 
 ## Technical Details
 
-A map showing the indicators and it's respective cluster was made using tableau public, you can find it here:
-https://public.tableau.com/views/ODS_FinalProject/Story1?:language=pt-BR&:display_count=n&:origin=viz_share_link
-You can view the code in my google drive here:
-https://colab.research.google.com/drive/1u-u4imcNDfpveinIhb2KswMhpvpQgnL9?usp=sharing
+A map showing the indicators and it's respective cluster was made using tableau public, you can find it [here](https://public.tableau.com/views/ODS_FinalProject/Story1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
+
 ## Data Source
 
 The main data source came from the world bank data bank https://databank.worldbank.org/
