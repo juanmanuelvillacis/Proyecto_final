@@ -16,11 +16,12 @@ The next steps where taken in order to proceed to the conclusions:
 
 ## Technical Details
 
+The introduction of the data and scope of the project is describe in this [file](https://github.com/juanmanuelvillacis/Proyecto_final/blob/main/ODS_IRONHACK.pptx.pdf)
 A map showing the indicators and it's respective cluster was made using tableau public, you can find it [here](https://public.tableau.com/views/ODS_FinalProject/Story1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
 
 ## Data Source
 
-The main data source came from the world bank data bank https://databank.worldbank.org/
+The main data source came from [the world bank data](https://databank.worldbank.org/)
 For this project a total of 262 countries with 401 metrics each and a time rnage of 10 years was used.
 
 ## Important Details
